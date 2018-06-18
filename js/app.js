@@ -86,3 +86,5 @@ let finish = 10;
 for(let i = start; i <= finish; i++) {
 	console.log(`The value of i is: ${i} of ${finish}`);
 }
+
+// Section 5
